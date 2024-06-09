@@ -71,7 +71,7 @@ const default_config = {
           name: "Self Hosted",
           links: [
             {
-              name: "izcloud",
+              name: "nextcloud",
               url: "https://cloud.inepsy.me",
               icon: "brand-nextcloud",
               icon_color: "var(--ctp-blue)",
